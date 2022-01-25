@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amature98
-- 👀 I’m interested in web devvelopment, data science and machine learning.
-- 🌱 I’m currently learningPython and MERNstack technologies.
+- 👀 I’m interested in web development, data science and machine learning.
+- 🌱 I’m currently learning Python and MERN stack technologies.
 - 💞️ I’m looking to collaborate on full stack web applications development.
 - 📫 How to reach me kinyuaviktor@gmail.com
 
